@@ -5,8 +5,11 @@
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **Sobre mí**
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
- 🔭 Me Gusta Hacer Muchas cosas Pero la Progrmacion me llamo Mucho La atencion 
+ 🔭 Me Gustan Hacer Muchas Cosas Pero La **Programacion** Me Causo Mucha Cuiriosidad
 
  🌱 Actualmente estoy aprendiendo **Python, JavaScript**
 
@@ -19,6 +22,8 @@
  😶‍🌫️ Edad: **20**
 
  👾 **Soy Creador de Contenido en Twitch Y Youtube**
+
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="six087" height="30" width="40" /></a>
 
 
  <p  align="center">
@@ -37,10 +42,6 @@
 </tr>
 </table>
 
-
-
-
-Crédito de la Plantilla: [arjuncvinod](https://github.com/arjuncvinod)
 
 
 
