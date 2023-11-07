@@ -22,8 +22,8 @@
  😶‍🌫️ Edad: **20**
 
  👾 **Soy Creador de Contenido en Twitch Y Youtube**
-
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="six087" height="30" width="40" /></a>
+ 
+✨Jugador de **Scum, DyaZ, Valorant, Cs, Hunt Shadows** <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="six087" height="30" width="40" /></a> six087
 
 
  <p  align="center">
