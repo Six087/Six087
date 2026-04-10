@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Six087&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Six087&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
