@@ -1,48 +1,43 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-<h1 align="center">Hola Soy Six</h1>
- 
+<!-- Banner -->
+<h1 align="center">Hola, soy Six</h1>
+<h3 align="center">Python Developer in progress · Mendoza, Argentina</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3670A0¢er=true&vCenter=true&width=435&lines=Python+Developer+in+progress;Content+Creator+%7C+Twitch+%26+YouTube;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **Sobre mí**
+<!-- Separador -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+## 👤 Sobre mí
 
- 🔭 Me Gustan Hacer Muchas Cosas Pero La **Programacion** Me Causo Mucha Cuiriosidad
+- 🔭 Desarrollador Python en formación, enfocado en scripting y automatización
+- 🌱 Actualmente aprendiendo **Python** a fondo — estructura, buenas prácticas y proyectos reales
+- 🎨 Manejo de herramientas de diseño: Photoshop y Premiere
+- 📺 Creador de contenido en **Twitch** y **YouTube**
+- ⚡ Dato curioso: los mapaches son mis animales favoritos
+- 📍 Argentina · 20 años
 
- 🌱 Actualmente estoy aprendiendo **Python, JavaScript**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- 💬 Soy un Programador Que Recien Empieza En Este Mundo
+## 🛠️ Tecnologías
 
- ✍ A Parte de Aprender a Programar tambien se usar **Photoshop, Premier**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
- ⚡ Dato curioso: **Me Gustan los Mapaches**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- 😶‍🌫️ Edad: **20**
+## 📊 Estadísticas
 
- 👾 **Soy Creador de Contenido en Twitch Y Youtube**
- 
-✨Jugador de **Scum, DyaZ, Valorant, Cs, Hunt Shadows** <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="six087" height="30" width="40" /></a> six087
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <p  align="center">
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif]      
-<br>
+## 📬 Contacto
 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
- 
-  </td>
-</tr>
-</table>
-
-
-
+[![Discord](https://img.shields.io/badge/Discord-six087-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Twitch](https://img.shields.io/badge/Twitch-TU_CANAL-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/TU_CANAL)
+[![YouTube](https://img.shields.io/badge/YouTube-TU_CANAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/TU_CANAL)
 
