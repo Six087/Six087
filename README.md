@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer · Content Creator · Argentina</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Six087&label=Visitas+al+perfil&color=3670A0&style=flat" />
+  <img src="https://raw.githubusercontent.com/Six087/Six087/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
