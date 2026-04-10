@@ -29,14 +29,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Six087&show_icons=true&theme=tokyonight&hide_border=true&locale=es"
-       height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Six087&layout=compact&theme=tokyonight&hide_border=true&locale=es"
-       height="160" alt="langs"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Six087&theme=tokyonight&hide_border=true&locale=es"
-       height="160" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Six087&show_icons=true&theme=tokyonight&hide_border=true&locale=es&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Six087&layout=compact&theme=tokyonight&hide_border=true&locale=es&cache_seconds=1800" height="160"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
