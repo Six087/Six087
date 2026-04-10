@@ -49,6 +49,6 @@
 ## 📬 Contacto
 
 [![Discord](https://img.shields.io/badge/Discord-six087-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Twitch](https://img.shields.io/badge/Twitch-TU_CANAL-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/TU_CANAL)
-[![YouTube](https://img.shields.io/badge/YouTube-TU_CANAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TU_CANAL)
+[![Twitch](https://img.shields.io/badge/Twitch-TU_CANAL-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]([https://twitch.tv/TU_CANAL](https://www.twitch.tv/six087))
+[![YouTube](https://img.shields.io/badge/YouTube-TU_CANAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@TU_CANAL](https://www.youtube.com/@Six087))
 
